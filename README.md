@@ -57,9 +57,4 @@ Atividade:  Desenvolvimento de API RESTful 🚀</p>
 </ol>
 
 <p>O frontend estará disponível em <a href="http://localhost:3000">http://localhost:3000</a>.</p>
-
-<h2>Demonstração em vídeo das funcionalidades do projeto:</h2>
-
-[![Demonstração do Projeto](https://i.ibb.co/n03qxwn/Sem-t-tulo.png)](https://vimeo.com/936070027)
-
 </body>
